@@ -1,0 +1,52 @@
+[
+    {
+        "pRelativeURL": "Deeptinaik13/Data-Engineering-projects/refs/heads/dataset/Adventure%20works/AdventureWorks_Calendar.csv",
+        "pSinkfolder": "Calender",
+        "pfilename": "calendar.csv"
+    },
+    {
+        "pRelativeURL": "Deeptinaik13/Data-Engineering-projects/refs/heads/dataset/Adventure%20works/AdventureWorks_Customers.csv",
+        "pSinkfolder": "Customers",
+        "pfilename": "customers.csv"
+    },
+    {
+        "pRelativeURL": "Deeptinaik13/Data-Engineering-projects/refs/heads/dataset/Adventure%20works/AdventureWorks_Product_Categories.csv",
+        "pSinkfolder": "Categories",
+        "pfilename": "categories.csv"
+    },
+    {
+        "pRelativeURL": "Deeptinaik13/Data-Engineering-projects/refs/heads/dataset/Adventure%20works/AdventureWorks_Product_Subcategories.csv",
+        "pSinkfolder": "Subcategories",
+        "pfilename": "subcategories.csv"
+    },
+    {
+        "pRelativeURL": "Deeptinaik13/Data-Engineering-projects/refs/heads/dataset/Adventure%20works/AdventureWorks_Products.csv",
+        "pSinkfolder": "Products",
+        "pfilename": "products.csv"
+    },
+    {
+        "pRelativeURL": "Deeptinaik13/Data-Engineering-projects/refs/heads/dataset/Adventure%20works/AdventureWorks_Returns.csv",
+        "pSinkfolder": "Returns",
+        "pfilename": "returns.csv"
+    },
+    {
+        "pRelativeURL": "Deeptinaik13/Data-Engineering-projects/refs/heads/dataset/Adventure%20works/AdventureWorks_Sales_2015.csv",
+        "pSinkfolder": "Sales_2015",
+        "pfilename": "sales_2015.csv"
+    },
+    {
+        "pRelativeURL": "Deeptinaik13/Data-Engineering-projects/refs/heads/dataset/Adventure%20works/AdventureWorks_Sales_2016.csv",
+        "pSinkfolder": "Sales_2016",
+        "pfilename": "sales_2016.csv"
+    },
+    {
+        "pRelativeURL": "Deeptinaik13/Data-Engineering-projects/refs/heads/dataset/Adventure%20works/AdventureWorks_Sales_2017.csv",
+        "pSinkfolder": "Sales_2017",
+        "pfilename": "sales_2017.csv"
+    },
+    {
+        "pRelativeURL": "Deeptinaik13/Data-Engineering-projects/refs/heads/dataset/Adventure%20works/AdventureWorks_Territories.csv",
+        "pSinkfolder": "Territories",
+        "pfilename": "territories.csv"
+    }
+]
